@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @lg-neuro
-- 👀 I’m interested in neuroscience
-- 🌱 I’m currently learning some basic coding in C/C++/Phyton and SQL
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: @trombrady on Instagram and Twitter
+- 👋 Hi, I’m Leonardo
+- 👀 I’m interested in neuroscience and signal processing
+- 🌱 I’m currently learning C/Phyton, SQL, HTML/CSS/JS, and Swift
+- 💞️ I’m looking for a PhD in Neuroscience
+- 📫 How to reach me: @leonardogenero on Twitter (тromвradч) 
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: co-owner of a sailing garments brand named Caketussy®
+- ⚡ Fun fact: co-founder of the sailing garments brand Caketussy®
 
 <!---
 lg-neuro/lg-neuro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
