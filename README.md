@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Leonardo
-- 👀 I’m interested in neuroscience and signal processing
+- 👀 I’m interested in system neuroscience and signal processing
 - 🌱 I’m currently learning C/Phyton, SQL, HTML/CSS/JS, and Swift
 - 💞️ I’m looking for a PhD in Neuroscience
-- 📫 How to reach me: @leonardogenero on Twitter (тromвradч) 
+- 📫 How to reach me: [LikedIn](https://www.linkedin.com/in/leonardogenero/)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: co-founder of the sailing garments brand [Caketussy®](https://instagram.com/caketussy)
 
